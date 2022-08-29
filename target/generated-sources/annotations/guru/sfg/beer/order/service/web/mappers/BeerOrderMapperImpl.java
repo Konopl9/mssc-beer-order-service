@@ -13,13 +13,13 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.UUID;
-import javax.annotation.processing.Generated;
+import javax.annotation.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-08-29T11:28:24+0200",
+    date = "2022-08-29T13:38:25+0200",
     comments = "version: 1.3.0.Final, compiler: javac, environment: Java 11.0.15.1 (Oracle Corporation)"
 )
 @Component
